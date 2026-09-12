@@ -1,0 +1,33 @@
+# Sul sito pubblicato va SOLO il sito. Tutto il lavoro interno resta qui.
+
+# documenti interni di progetto (ricerca, prezzi, strategia, contatti del cliente)
+RESEARCH.md
+COMPETITORS.md
+DESIGN-DIRECTION.md
+BRAND-KIT.md
+META-PROMPT.md
+PROMPT.md
+SHOT-LIST.md
+TODO-CLIENTE.md
+STATO-BOZZA.md
+docs-legali/
+
+# materiale di lavorazione
+assets/raw/
+tools/
+*.psd
+*.ai
+
+# chiavi e ambienti (non ne usiamo, ma il file deve coprirli comunque)
+.env
+.env.*
+*.key
+*.pem
+*.p12
+
+# sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+node_modules/
+AUDIT-PRELANCIO.md
